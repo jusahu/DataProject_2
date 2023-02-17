@@ -9,7 +9,7 @@
 - [Victor Ruiz](https://www.linkedin.com/in/vruizext/)
 - [Darío Fernández](https://www.linkedin.com/in/dar%C3%ADo-fern%C3%A1ndez-fern%C3%A1ndez/)
 - [Marina Pérez](https://www.linkedin.com/in/marinaperezbarber/)
-- [Julio Sahuqillo](https://www.linkedin.com/in/juliosahuquillohuerta/)
+- [Julio Sahuquillo](https://www.linkedin.com/in/juliosahuquillohuerta/)
 - [Nacho Pascual](https://www.linkedin.com/in/nacho-pascual/)
 
 # Proyecto
